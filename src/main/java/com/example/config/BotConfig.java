@@ -19,8 +19,8 @@ public class BotConfig {
   public MicrosoftAppCredentials getCredentials() {
     /*return new MicrosoftAppCredentials(environment.getProperty("bot.appId"),
         environment.getProperty("bot.appPassword"));*/
-    return new MicrosoftAppCredentials("e1cbc61d-7f73-4267-9631-91f885eb97d9",
-        "0vjuoeCUf4Mv/vj=qhNVngJ=XD0w0Tb.");
+    return new MicrosoftAppCredentials("3ba0a225-5467-4bf5-bfa1-691d3d4a2bc3",
+        "8J?X?GuQ@CWE1CPty[KEyxqtHZWGio91");
   }
 
   @Bean

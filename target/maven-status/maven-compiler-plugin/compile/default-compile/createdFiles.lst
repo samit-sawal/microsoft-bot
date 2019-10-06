@@ -1,7 +1,0 @@
-com\example\App.class
-com\example\creators\ConversationCreator.class
-com\example\config\BotConfig.class
-com\example\spellcheckers\JazzySpellChecker.class
-com\example\controllers\BotMessagesHandler.class
-com\example\creators\ActivityCreator.class
-com\example\senders\ResourceResponseSender.class
